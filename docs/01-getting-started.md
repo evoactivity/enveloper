@@ -8,7 +8,7 @@ You'll need SMTP details for sending the emails. If you don't have these you can
 
 You'll also need to share a folder where Enveloper will look for your templates. 
 
-## Running the server
+## Installing & Running the server
 
 Let's assume you've created a folder called `enveloper-data`. Run this to start the server
 
